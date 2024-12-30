@@ -1,0 +1,17 @@
+{
+  "name": "promise-from-scratch",
+  "version": "1.0.0",
+  "description": "A TypeScript and Node.js implementation of a custom promise, built from the ground up to understand the inner workings of asynchronous programming in JavaScript. This project replicates core features of native JavaScript promises, including *then*, *catch*, and *finally*, while exploring how promises handle chaining, error propagation, and asynchronous resolution.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "tsx": "4.19.2",
+    "typescript": "5.7.2"
+  }
+}
